@@ -73,6 +73,8 @@ const Search = () => {
                     <option value="">Intermediate</option>
                 </select>
             </div>
+
+            <span className="text-[#a1a1a1] cursor-pointer">Clear All</span>
             
             
            </div>
